@@ -6,6 +6,8 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+
+// Interviewbit Problem
 int Solution::lPalin(ListNode* A) {
     ListNode* temp = A;
     stack<int> s;
