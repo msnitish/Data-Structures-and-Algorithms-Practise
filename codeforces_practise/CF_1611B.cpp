@@ -1,5 +1,4 @@
-// C++ program to count total anagram
-// substring of a string
+
 #include <bits/stdc++.h>
 #include <algorithm>
 using namespace std;
